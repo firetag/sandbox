@@ -1,7 +1,7 @@
 Red
 Green
 Blue
-gold
-cornflowerblue
-deeppink
+Gold
+Cornflowerblue
+Deeppink
 
